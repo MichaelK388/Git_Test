@@ -1,7 +1,7 @@
 public class Menu {
     public void start() {
         Greeter greeter = new Greeter();
-        greeter.printWelcome();
-        System.out.println("1. Opret en film");
+        greeter.showWelcome();
+        System.out.print("1. Opret en film");
     }
 }
