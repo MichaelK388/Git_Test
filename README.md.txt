@@ -6,3 +6,5 @@
 
 Navn: Issa
 GitHub navn: Issatjr-glitch
+
+Jeg skriver noget andet
