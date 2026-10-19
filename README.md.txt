@@ -6,3 +6,4 @@
 
 Navn: Issa
 GitHub navn: Issatjr-glitch
+JESUS
